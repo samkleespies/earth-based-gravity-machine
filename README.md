@@ -12,3 +12,4 @@ that would allow the vehicle overcome drag/air resistance and record it's g valu
 This repo includes the C++ code for the Arduino control system, and relevant CAD files for the geometry of the vehicle itself.
 
 ![design](https://user-images.githubusercontent.com/33460839/108903660-67346100-75d2-11eb-887d-dd5b54ca0fd4.png)
+![thrust-system](https://user-images.githubusercontent.com/33460839/108904210-15d8a180-75d3-11eb-933b-a1e187f48bf2.png)
