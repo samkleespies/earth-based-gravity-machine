@@ -1,6 +1,6 @@
 # My Senior Design Project: Earth-Based Gravity Machine
 
-This repo contains all the files related to my Senior Design Project at UCF. 
+### This repo contains all the files related to my Senior Design Project at UCF. 
   
 The goal of this project was to design a cost-effective, reproducible microgravity drop vehicle to allow for more easily accessible microgravity research.  
   
@@ -10,3 +10,5 @@ that would allow the vehicle overcome drag/air resistance and record it's g valu
   
   
 This repo includes the C++ code for the Arduino control system, and relevant CAD files for the geometry of the vehicle itself.
+
+![design](https://user-images.githubusercontent.com/33460839/108903660-67346100-75d2-11eb-887d-dd5b54ca0fd4.png)
