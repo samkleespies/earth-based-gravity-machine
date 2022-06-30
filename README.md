@@ -9,7 +9,7 @@ The vehicle would house a 2U cubesat and be dropped from a drone at 400ft, using
 that would allow the vehicle overcome drag/air resistance and record it's g value which should approach 1/1,000,000 of Earth's gravity.
   
   
-This repo includes the C++ code for the Arduino control system, and relevant CAD files for the geometry of the vehicle itself.
+This repo includes the C++ code for the Arduino control system, relevant CAD files for the geometry of the vehicle itself, and the final report for the project
 
 
 ### Final CAD design of the vehicle
